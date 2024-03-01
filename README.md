@@ -1,3 +1,3 @@
-Webmobin responsiivinen nettisivu
+Web- ja mobiilikäyttöliittymät -kurssilla tehty responsiivinen nettisivu.
 
-Nettisivu on katsottavissa osoitteessa [mauski22.github.io](https://mauski22.github.io/)
+Sivu löytyy osoitteesta [mauski22.github.io](https://mauski22.github.io/)
